@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for the FiveM scripting community and the popular Spanish server BandidosRP
+- 🔭 I’m currently working for the FiveM scripting community and the popular Spanish server BandidosRP. I usually code with lua, c# and js.
 - 🌱 I’m currently learning C# and some js frameworks as VUE or React.
 - 💬 Ask me about my new scripts, I am always working in something.
 - 📫 How to reach me: You can find me in my [**Discord**](https://discord.gg/eBpmkW6e5j)
