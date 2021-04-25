@@ -5,7 +5,7 @@
 - 💬 Ask me about my new scripts, I am always working in something.
 - 📫 How to reach me: You can find me in my [**Discord**](https://discord.gg/eBpmkW6e5j)
 - 😄 Pronouns: guillerp
-- ⚡ Fun fact: I am 16 
+
 
 - 🤔 My GitHub stats: 
 
