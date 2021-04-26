@@ -10,6 +10,6 @@
 - 🤔 My GitHub stats: 
 
 
-[![guillerp8](https://github-readme-stats.vercel.app/api?username=guillerp8)](https://github.com/anuraghazra/github-readme-stats)
+[![guillerp8](https://github-readme-stats.vercel.app/api?username=guillerp8)](https://discord.gg/eBpmkW6e5j)
 
-[![guillerp8](https://github-readme-stats.vercel.app/api/top-langs/?username=guillerp8)](https://github.com/anuraghazra/github-readme-stats)
+[![guillerp8](https://github-readme-stats.vercel.app/api/top-langs/?username=guillerp8)](https://discord.gg/eBpmkW6e5j)
