@@ -14,4 +14,4 @@
 
 [![guillerp8](https://github-readme-stats.vercel.app/api/top-langs/?username=guillerp8)](https://discord.gg/eBpmkW6e5j)
 
-[![guillerp8](https://github-readme-stats.vercel.app/api/wakatime?username=guillerp8)](https://discord.gg/eBpmkW6e5j)
+[![guillerp8](https://github-readme-stats.vercel.app/api/wakatime/?username=guillerp8)](https://discord.gg/eBpmkW6e5j)
