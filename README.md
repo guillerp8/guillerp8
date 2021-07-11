@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently coding Python tools, also, sometimes, I make somethings for FiveM in lua.
+- 🔭 I’m currently coding Python tools, also, sometimes, I create stuff for FiveM in lua.
 - 🌱 I’m currently learning C# and things like Pyqt5.
 - 🌭 Nuitka lover, C 🤝 Python
 - 💬 Ask me about my new scripts, I am always working in something.
