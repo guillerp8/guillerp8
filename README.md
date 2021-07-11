@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently coding Python tools, also, sometimes, I make somethings for FiveM in lua.
 - 🌱 I’m currently learning C# and things like Pyqt5.
-- 🌭 Nuikta lover, C 🤝 Python
+- 🌭 Nuitka lover, C 🤝 Python
 - 💬 Ask me about my new scripts, I am always working in something.
 - 📫 How to reach me: You can find me in my [**Discord**](https://discord.gg/eBpmkW6e5j)
 - 😄 Pronouns: guillerp
