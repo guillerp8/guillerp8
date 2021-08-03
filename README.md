@@ -8,6 +8,7 @@
 - 😄 Pronouns: guillerp
 - 🤔 My GitHub stats: 
 
+![guillerp](https://komarev.com/ghpvc/?username=guillerp8)
 
 [![guillerp8](https://github-readme-stats.vercel.app/api?username=guillerp8)](https://discord.gg/eBpmkW6e5j)
 
