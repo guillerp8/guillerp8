@@ -11,6 +11,8 @@
 ### Connect with me:
 
 <img align="left" alt="https://discord.gg/eBpmkW6e5j" width="50px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
+guillerp#1928
+
 
 <br />
 
