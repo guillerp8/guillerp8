@@ -1,10 +1,5 @@
 ### Hi there, I'm Guillem - aka Guillerp 👋 
 
-## I'm a teen that tries to learn and create new things!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with open source developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play tennis.
 - **Working in project Atlas** <img align="left" alt="https://discord.gg/eBpmkW6e5j" width="20px" src="https://images-ext-1.discordapp.net/external/6yNNGi3JfOexDMyd_aEh08FOsYnJKy0ImVfis32R0pM/https/i.imgur.com/34r9QYyh.jpg?width=676&height=676" />
 
