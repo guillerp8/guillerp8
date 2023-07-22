@@ -1,4 +1,4 @@
-### Hi there, I'm Guillem - aka Guillerp 👋 
+### I'm Guillem
 
 
 ### Languages and Tools:
