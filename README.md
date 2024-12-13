@@ -14,6 +14,7 @@ I'm a passionate Engineering student at the Polytechnic University of Catalonia 
 - C
 - Java
 - Assembly
+- Python
 
 🌟 **Technologies and Frameworks:**
 - MySQL
