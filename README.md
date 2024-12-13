@@ -11,6 +11,9 @@ I'm a passionate Engineering student at the Polytechnic University of Catalonia 
 - TypeScript
 - JavaScript
 - C++
+- C
+- Java
+- Assembly
 
 🌟 **Technologies and Frameworks:**
 - MySQL
